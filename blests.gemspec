@@ -40,6 +40,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
 
-  spec.add_dependency "parallel_tests", "2.29.2"
+  spec.add_dependency "parallel_tests", "~> 2.29"
   spec.add_dependency "knapsack", "~> 1.18"
 end
